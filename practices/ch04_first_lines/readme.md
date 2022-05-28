@@ -68,3 +68,5 @@ Now it's your turn. Here are some ideas to practice.
 3. Ask a user for their name and age. Write code to tell them how many years you are older than them (negative numbers for younger is fine at this point).
 4. Use the built-in library `datetime` and the function `datetime.datetime.now()` to determine the current year and print that to REPL using an f-string.
 5. Take one of these sets of code and visualize them with [pythontutor.com](http://pythontutor.com/visualize.html#mode=edit)
+
+For any questions, please refer to the Python documentation or open an issue on GitHub
